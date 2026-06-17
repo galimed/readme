@@ -1,6 +1,5 @@
 # readme
 
-Voici un **README GitHub professionnel** que tu peux publier sur ton profil GitHub ou dans le dépôt principal de Groupe Business Thérapie.
 
 ---
 

@@ -10,7 +10,7 @@ Voici un **README GitHub professionnel** que tu peux publier sur ton profil GitH
 
 Bienvenue sur mon espace GitHub.
 
-Je suis **Bouesse Arafat NZABA MOUNGUENGUE**, également connu sous le nom de scène **KharYsma**, entrepreneur, artiste, auteur, producteur, développeur de projets numériques et fonctionnaire du Trésor Public au Congo-Brazzaville.
+Je suis **Bouesse Arafat NZABA MOUNGUENGUE**, également connu sous le nom de scène **KharYsma**, entrepreneur, artiste, auteur, producteur, développeur de projets numériques et fonctionnaire d'Etat.
 
 Ma mission consiste à construire des écosystèmes numériques, culturels et technologiques capables de créer de la valeur durable à l'échelle internationale.
 
@@ -38,7 +38,7 @@ Mon objectif est de développer des plateformes à fort impact social et économ
 
 ## Groupe Business Thérapie
 
-🌐 [Groupe Business Thérapie](https://www.groupe-businesstherapie.net?utm_source=chatgpt.com)
+🌐 [Groupe Business Thérapie](https://www.groupe-businesstherapie.net)
 
 Organisation internationale développant des projets dans :
 
@@ -56,7 +56,7 @@ Organisation internationale développant des projets dans :
 
 ## GALIMED AI
 
-🌐 [GALIMED AI](https://galimedai.org?utm_source=chatgpt.com)
+🌐 [GALIMED AI](https://galimedai.org)
 
 Plateforme médicale assistée par Intelligence Artificielle.
 
@@ -81,9 +81,9 @@ Technologies :
 
 ## KHARYSMA COINS (KHACN)
 
-🌐 [StartArCoins](https://startarcoins.com?utm_source=chatgpt.com)
+🌐 [StartArCoins](https://startarcoins.com)
 
-Projet blockchain et token ERC-20 destiné à connecter :
+Projet blockchain et kharYsma Coins (khacn) token ERC-20 destiné à connecter :
 
 * Art
 * Musique
@@ -103,7 +103,7 @@ Objectifs :
 
 ## Royaume des Bonnes Affaires (RBA)
 
-🌐 [RBA Marketplace](https://www.r-b-a.fr?utm_source=chatgpt.com)
+🌐 [RBA Marketplace](https://www.r-b-a.fr)
 
 Marketplace internationale dédiée à :
 
@@ -118,7 +118,7 @@ Marketplace internationale dédiée à :
 
 ## KharYsma
 
-🌐 [KharYsma Official Website](https://kharysma-an.fr?utm_source=chatgpt.com)
+🌐 [KharYsma Official Website](https://kharysma-an.fr)
 
 Univers artistique personnel regroupant :
 
@@ -132,7 +132,7 @@ Univers artistique personnel regroupant :
 
 ## Pressecrite
 
-🌐 [Pressecrite](https://pressecrite.fr?utm_source=chatgpt.com)
+🌐 [Pressecrite](https://pressecrite.fr)
 
 Plateforme de presse numérique.
 
@@ -148,7 +148,7 @@ Objectifs :
 
 ## Caricat Media
 
-🌐 [Caricat Media](https://caricat-media.org?utm_source=chatgpt.com)
+🌐 [Caricat Media](https://caricat-media.org)
 
 Média indépendant consacré à :
 

@@ -235,11 +235,11 @@ afin de créer des solutions accessibles, innovantes et durables pour les géné
 
 📧 [contact@groupe-businesstherapie.net](mailto:contact@groupe-businesstherapie.net)
 
-🌐 [Groupe Business Thérapie](https://www.groupe-businesstherapie.net?utm_source=chatgpt.com)
+🌐 [Groupe Business Thérapie](https://www.groupe-businesstherapie.net)
 
-🌐 [KharYsma Official Website](https://kharysma-an.fr?utm_source=chatgpt.com)
+🌐 [KharYsma Official Website](https://kharysma-an.fr)
 
-🌐 [StartArCoins](https://startarcoins.com?utm_source=chatgpt.com)
+🌐 [StartArCoins](https://startarcoins.com)
 
 ---
 
